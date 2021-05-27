@@ -1,0 +1,2 @@
+/home/raz/razuwaikin/workspace/projects/lab04/CMakeFiles/rebuild_cache.dir
+/home/raz/razuwaikin/workspace/projects/lab04/CMakeFiles/edit_cache.dir
